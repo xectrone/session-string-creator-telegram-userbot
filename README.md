@@ -1,9 +1,9 @@
-# Session Exporter Userbot
+# Session String Creator Userbot
 
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![Pyrogram](https://img.shields.io/badge/pyrogram-2.0.25-blue)
 
-**Session Exporter Userbot** is a Python-based tool designed to securely generate and export session strings for Telegram user accounts. It simplifies the process of creating session strings, essential for running bots or automating tasks using the Telegram API.
+**Session String Creator Userbot** is a Python-based tool designed to securely generate and export session strings for Telegram user accounts. This tool simplifies the process of creating session strings, essential for running bots or automating tasks using the Telegram API.
 
 ## Key Features
 
@@ -37,8 +37,8 @@
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/xectrone/session-string-exporter-telegram-userbot-.git
-cd session-string-exporter-telegram-userbot
+git clone https://github.com/xectrone/session-string-creator-telegram-userbot.git
+cd session-string-creator-telegram-userbot
 ```
 
 ### 2. Install Dependencies
